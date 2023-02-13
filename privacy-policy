@@ -1,0 +1,13 @@
+Subject: global chat
+1.  Why are messages stored in a database?  - To be able to reply to the sent messages.
+2.  Can I request that images and text sent in a message be deleted?  - As long as the message is not 200 messages old, the message can be automatically deleted. 
+
+Subject: messages
+1.  Are news content or images stored in a database?  - Generally not, except in global chat, but that's what the subject: global chat is for more information. 
+
+Subject: Information
+1.  Are information and server settings saved?  - Only as long as the bot is on the server.  Otherwise the bot will automatically remove all information and settings from the databases. 
+
+Subject: Databases
+1.  Who has access to the databases and can view message content from the global chat and etc.?  - Only <@981474299036725268> and <@408692795180711946> (the developers).
+2.  Will the content be disclosed publicly?  - Clearly: no.
