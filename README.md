@@ -1,0 +1,2 @@
+# blueplayer
+The Privacy Policy
